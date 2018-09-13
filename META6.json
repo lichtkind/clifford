@@ -15,5 +15,6 @@
     },
     "authors" : [ "Lucien Grondin" ],
     "depends" : [ ],
-    "source-url" : "git://github.com/grondilu/clifford.git"
+    "source-url" : "git://github.com/grondilu/clifford.git",
+    "tags" : [ "Math" ],
 }
